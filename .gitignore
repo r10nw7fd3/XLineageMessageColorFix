@@ -1,0 +1,6 @@
+*.class
+*.jks
+*.apk*
+*.dex
+*.jar
+*.sw?

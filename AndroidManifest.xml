@@ -1,0 +1,10 @@
+<manifest xmlns:a="http://schemas.android.com/apk/res/android" package="r10nw7fd3.xlineagemessagecolorfix" a:versionCode="0" a:versionName="1.0">
+	<!-- Introduced in lineage-17.1, A10, SDK29 -->
+	<uses-sdk a:targetSdkVersion="33" a:minSdkVersion="29" />
+	<application a:label="XLineageMessageColorFix">
+		<meta-data a:name="xposedmodule" a:value="true" />
+		<meta-data a:name="xposedminversion" a:value="53" />
+		<meta-data a:name="xposedscope" a:value="com.android.messaging" />
+		<meta-data a:name="xposeddescription" a:value="Xposed module that disables contact colors for message bubbles in LineageOS Messaging app" />
+	</application>
+</manifest>
