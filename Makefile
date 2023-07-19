@@ -39,4 +39,4 @@ genkey:
 install: $(OUT)
 	adb install $(OUT)
 
-.PHONY: all clean genkey
+.PHONY: all clean genkey install
